@@ -1,6 +1,4 @@
 # Usman Kaleel
-# SOCI 100 - Life Chances and Choices
-# Final Project
 # This code is meant to simulate how differing initial resources for people
 # can lead to future widened gaps in resources and opportunities
 
